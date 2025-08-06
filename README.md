@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on llm fine tuning to Back Operating System.<br>👯 I’m looking to collaborate on Edufox and open source machine learning projects.<br>🤝 I’m looking for help with Full stack web development.<br>🌱 I’m currently learning React, Next.js and llm fine tuning.<br>💬 Ask me about Large language models and competitive programming.
 
 
 ## 🌐 Socials:
